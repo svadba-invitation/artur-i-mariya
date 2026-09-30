@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wedding invite//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1794049200000@wedding.invite
+DTSTAMP:20260101T000000Z
+DTSTART:20261107T110000Z
+DTEND:20261107T200000Z
+SUMMARY:Свадьба: Артур и Мария
+LOCATION:Prime Hall\, Новоясеневский проспект\, 1Б
+ к1
+DESCRIPTION:14:00 — Венчание — Армянская апост
+ ольская церковь\n17:00 — Сбор гостей\, фур
+ шет — Ресторан «Prime Hall»\n18:00 — Начало то
+ ржества — Ресторан «Prime Hall»
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Свадьба: Артур и Мария — завтра
+END:VALARM
+END:VEVENT
+END:VCALENDAR
